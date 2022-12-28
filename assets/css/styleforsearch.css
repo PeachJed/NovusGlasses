@@ -1,0 +1,50 @@
+/* Section main*/
+.product-counter {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.product-counter span {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.product-counter span#product-count {
+  margin: 0 20px;
+}
+
+.product-counter button {
+  font-size: 1.5em;
+  margin-left: 20px;
+}
+
+.product-counter h6 {
+  text-align: left;
+  margin-right: auto;
+  padding-top: 10px;
+}
+
+
+.red-button {
+  background-color: rgba(206, 18, 18, 0.8);
+  ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: auto;
+}
+
+.blue-button {
+  background-color: rgba(4, 0, 255, 0.8);
+  ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: auto;
+}
